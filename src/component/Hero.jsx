@@ -15,7 +15,7 @@ const Herosection = () => {
                 <div className="shoping">
 
                     <div className="brand-icon">
-                        <img src="/image/shop.png" alt="" />
+                        <img src="./image/shop.png" alt="" />
                     </div>
                 </div>
             </div>
